@@ -20,14 +20,14 @@ BIBLIOTECH/
 │ └── database.sql # Script per creare database, tabelle e dati di test
 │
 └── src/ # Codice sorgente PHP dell'applicazione
-├── config.php # Connessione al database MySQL
-├── login.php # Pagina di login con autenticazione
-├── logout.php # Logout e distruzione sessione
-├── libri.php # Catalogo libri con ricerca e filtri
-├── libro.php # Dettaglio di un singolo libro
-├── presta_libro.php # Gestisce la richiesta di prestito (studente)
-├── prestiti.php # Elenco prestiti attivi dello studente
-└── gestione_restituzioni.php # Pannello bibliotecario per restituzioni
+  ├── config.php # Connessione al database MySQL
+  ├── login.php # Pagina di login con autenticazione
+  ├── logout.php # Logout e distruzione sessione
+  ├── libri.php # Catalogo libri con ricerca e filtri
+  ├── libro.php # Dettaglio di un singolo libro
+  ├── presta_libro.php # Gestisce la richiesta di prestito (studente)
+  ├── prestiti.php # Elenco prestiti attivi dello studente
+  └── gestione_restituzioni.php # Pannello bibliotecario per restituzioni
 ```
 ---
 
